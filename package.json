@@ -1,0 +1,13 @@
+{
+  "name": "cumbre-comercial-proteccionismo",
+  "version": "1.0.0",
+  "description": "Simulación interactiva (HTML/CSS/JS puro) de una cumbre de política comercial: proteccionismo, aranceles y libre comercio en Economía Internacional.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
