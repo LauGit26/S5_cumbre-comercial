@@ -210,6 +210,11 @@
   });
 
   // ---------- Botón de silenciar (fuera del router) ----------
+  document.getElementById("btn-home").addEventListener("click", () => {
+    stopTimer();
+    Router.go("menu");
+  });
+
   const btnMute = document.getElementById("btn-mute");
   btnMute.addEventListener("click", () => {
     const soundOn = !Store.getState().soundOn;
