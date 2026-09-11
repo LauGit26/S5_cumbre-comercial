@@ -17,12 +17,12 @@
  */
 
 const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyA9Ut8bHBXIplG5qEJVSpfmhErPaFOtcKs",
-  authDomain: "cumbre-comercial.firebaseapp.com",
-  projectId: "cumbre-comercial",
-  storageBucket: "cumbre-comercial.firebasestorage.app",
-  messagingSenderId: "981456583190",
-  appId: "1:981456583190:web:ab7482f59cbfcd98b41337"
+  apiKey: "AIzaSyDoYNSUf5ui0DN_mCC0GVFn8PywV8rtOrA",
+  authDomain: "s5-cumbre-comercial.firebaseapp.com",
+  projectId: "s5-cumbre-comercial",
+  storageBucket: "s5-cumbre-comercial.firebasestorage.app",
+  messagingSenderId: "527897455755",
+  appId: "1:527897455755:web:8950059b4fc34d6faff88e"
 };
 
 // Correo de la persona docente autorizada a reiniciar la tabla global.
